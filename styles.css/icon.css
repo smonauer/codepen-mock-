@@ -1,0 +1,14 @@
+i {
+    color: lightgrey;
+}
+
+.log-link-wrapper .create-link-wrapper i{
+    color: yellowgreen;
+    margin-left: -10px;
+    font-size: 1rem;
+}
+
+.log-link-wrapper i{
+    font-size: 1.8em;
+    margin-left: 15px;
+}

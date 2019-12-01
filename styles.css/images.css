@@ -1,0 +1,21 @@
+
+.content-wrapper .content img{
+    height: 26px;
+    width: auto;
+    background-color: none;
+}
+
+.main-body-content .image-codepen img{
+    height: 300px;
+    width: auto;
+}
+
+
+.main-body-content .image-codepen{
+    margin-left: 35px;
+}
+
+.menu-bar img{
+    height: 80px;
+    width: 160px;
+}

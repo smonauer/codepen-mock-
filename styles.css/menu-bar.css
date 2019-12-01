@@ -1,0 +1,73 @@
+.menu-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-bar .links-wrapper .menu-links{
+    font-weight: 900;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: -10px;
+}
+
+.menu-bar .links-wrapper h1{
+    margin-top: -5px;
+    font-size: .7rem;
+    color: rgb(249, 252, 63);
+}
+
+.spark-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -40px;
+    margin-top: 17px;
+}
+
+.menu-bar .spark-wrapper .spark-link{
+    text-decoration: none;
+    color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    padding: 9px;
+}
+
+.log-link-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.create-link-wrapper .create-link{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.create-link-wrapper{
+    background-color: rgb(73, 73, 73);
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.log-link-wrapper .log-in{
+    text-decoration: none;
+    color: white;
+    margin-right: -7px;
+    margin-left: 15px;
+    background-color: rgb(73, 73, 73);
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.log-link-wrapper .sign-up{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(73, 73, 73);
+    border-radius: 2px;
+    padding: 9px;
+}
